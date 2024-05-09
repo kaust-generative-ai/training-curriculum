@@ -19,11 +19,17 @@ Cover various strategies for deploying Generative AI models, including on-premis
 
 * [Open Source Models with HuggingFace](https://www.deeplearning.ai/short-courses/open-source-models-hugging-face/)
 * [Building Generative AI Apps](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/)
+* [Ollama](https://ollama.com) ([GitHub](https://github.com/ollama/ollama))
+* [Llama.cpp](https://github.com/ggerganov/llama.cpp)
 
 #### Edge Deployment
 
 * [Introduction to Device AI](https://www.deeplearning.ai/short-courses/introduction-to-on-device-ai/)
 
+#### UI/UX
+
+* [Open WebUI](https://github.com/open-webui/open-webui)
+* 
 ### Model Optimization:
 
 Cover techniques for optimizing Generative AI models for deployment, such as model pruning, quantization, and distillation. Cover the trade-offs between model size, speed, and performance.
@@ -31,7 +37,14 @@ Cover techniques for optimizing Generative AI models for deployment, such as mod
 * [Quantization Fundamentals](https://www.deeplearning.ai/short-courses/quantization-fundamentals-with-hugging-face/)
 * [Quantization in Depth](https://www.deeplearning.ai/short-courses/quantization-in-depth/)
 
-  
+#### Open Source Inference Servers:
+
+* [OpenLLM](https://github.com/bentoml/OpenLLM)
+* [VLLM](https://github.com/vllm-project/vllm)
+* [Cog](https://github.com/replicate/cog)
+* [TGI](https://github.com/huggingface/text-generation-inference)
+* [TEI](https://github.com/huggingface/text-embeddings-inference)
+* 
 ### Monitoring and Maintenance: 
 
 Cover the importance of monitoring the performance of deployed models and updating them as needed. Discuss potential issues that might arise during deployment and how to troubleshoot them.
@@ -149,6 +162,7 @@ Cover the basic ideas of Instruction Tuning as well as extensions such as the po
 Cover approaches to fine-tuning, such as Direct Preference Optimization (DPO), where the goal of the fine-tuning is to improve the alignment of LLMs with human preferences.
 
 * [RLHF](https://www.deeplearning.ai/short-courses/reinforcement-learning-from-human-feedback/)
+* [Latent Space Podcast on RLHF](https://www.latent.space/p/rlhf-201)
   
 ## Practical Training of LLMs from Scratch
 
