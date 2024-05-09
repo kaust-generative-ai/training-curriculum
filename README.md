@@ -8,15 +8,21 @@ This repository develops a training curriculum for Generative AI. Rather than st
 
 Cover various strategies for deploying Generative AI models, including on-premises, cloud-based deployment, and edge device deployments. Cover the pros and cons of each strategy and the factors to consider when choosing a deployment strategy.
 
-* [Open Source Models with HuggingFace](https://www.deeplearning.ai/short-courses/open-source-models-hugging-face/)
+#### Cloud-based Deployment
+
 * [Serverless LLM Apps using AWS Bedrock](https://www.deeplearning.ai/short-courses/serverless-llm-apps-amazon-bedrock/)
-* [Building Generative AI Apps](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/)
-* [Developing Generative AI Apps for Business](https://www.deeplearning.ai/short-courses/microsoft-semantic-kernel/)
-* [LangChain for LLM App Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
-* [LangChain: Chat with your Data](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/)
-* [LangChain: Functions, Tools, and Agents](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/)
-* [Understanding and Applying Text Embeddings](https://www.deeplearning.ai/short-courses/google-cloud-vertex-ai/)
+* [Developing Generative AI Apps using Microsoft Semantic Kernel](https://www.deeplearning.ai/short-courses/microsoft-semantic-kernel/)
+* [Understanding and Applying Text Embeddings with Vertex AI](https://www.deeplearning.ai/short-courses/google-cloud-vertex-ai/)
 * [Pair Programming with LLMs](https://www.deeplearning.ai/short-courses/pair-programming-llm/)
+
+#### Local Deployment
+
+* [Open Source Models with HuggingFace](https://www.deeplearning.ai/short-courses/open-source-models-hugging-face/)
+* [Building Generative AI Apps](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/)
+
+#### Edge Deployment
+
+* [Introduction to Device AI](https://www.deeplearning.ai/short-courses/introduction-to-on-device-ai/)
 
 ### Model Optimization:
 
@@ -24,7 +30,7 @@ Cover techniques for optimizing Generative AI models for deployment, such as mod
 
 * [Quantization Fundamentals](https://www.deeplearning.ai/short-courses/quantization-fundamentals-with-hugging-face/)
 * [Quantization in Depth](https://www.deeplearning.ai/short-courses/quantization-in-depth/)
-* [Vector Databases: Embedding to Applications](https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications/)
+
   
 ### Monitoring and Maintenance: 
 
@@ -33,7 +39,27 @@ Cover the importance of monitoring the performance of deployed models and updati
 * [Evaluating and Debugging Generative AI Apps](https://www.deeplearning.ai/short-courses/evaluating-debugging-generative-ai/)
 * [LLMOps](https://www.deeplearning.ai/short-courses/llmops/)
 * [Automated Testing for LLMOps](https://www.deeplearning.ai/short-courses/automated-testing-llmops/)
+
+## Open-Source Tools of the Generative AI Trade
+
+### LangChain
+
+* [LangChain for LLM App Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
+* [LangChain: Chat with your Data](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/)
+* [LangChain: Functions, Tools, and Agents](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/)
+* [LLM Apps with JavaScript](https://www.deeplearning.ai/short-courses/build-llm-apps-with-langchain-js/)
+
+### LlamaIndex
+
+* [Building and Evaluating Advanced RAG Apps](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/)
+* [Agentic RAG Apps](https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex/)
+* [RAG Apps with JavaScript](https://www.deeplearning.ai/short-courses/javascript-rag-web-apps-with-llamaindex/)
   
+### Vector Databases
+
+* [Vector Databases: Embedding to Applications](https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications/)
+* [Knowledge Graphs for RAG](https://www.deeplearning.ai/short-courses/knowledge-graphs-rag/)
+
 ## Ethical and Responsible Use of Generative AI
 
 ### Ethical Considerations: 
@@ -52,8 +78,6 @@ Teach students about best practices for responsible AI, including techniques for
 
 Provide an overview of the legal and regulatory landscape for AI and LLMs. Discuss issues such as data privacy, intellectual property rights, and liability.
 
-* [Knowledge Graphs for RAG](https://www.deeplearning.ai/short-courses/knowledge-graphs-rag/)
-
 ## Practical Evaluation of LLMs
 
 ### Introduction to Evaluation Metrics: 
@@ -69,7 +93,7 @@ Teach students how to evaluate the performance of LLMs using the discussed metri
 Provide students with practical exercises where they can practice evaluating LLMs. We will use real-world examples and datasets provided by our partners for these exercises to give students practical experience.
 
 * [LLMs for Semantic Search](https://www.deeplearning.ai/short-courses/large-language-models-semantic-search/)
-* [Building and Evaluating Advanced RAG Apps](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/)
+
 * [Advanced AI Retrieval](https://www.deeplearning.ai/short-courses/advanced-retrieval-for-ai/)
 * [Building Applications with Vector databases](https://www.deeplearning.ai/short-courses/building-applications-vector-databases/)
 * [Preprocessing Unstructured Data for LLM Apps](https://www.deeplearning.ai/short-courses/preprocessing-unstructured-data-for-llm-applications/)
