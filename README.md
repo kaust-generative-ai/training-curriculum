@@ -25,6 +25,8 @@ Cover various strategies for deploying Generative AI models, including on-premis
 #### Edge Deployment
 
 * [DeepLearning AI: Introduction to Device AI](https://www.deeplearning.ai/short-courses/introduction-to-on-device-ai/)
+* [Machine Learning Compilation](https://llm.mlc.ai) ([GitHub](https://github.com/mlc-ai/mlc-llm))
+* [Deploying LLMs in your Web Browser](https://github.com/mlc-ai/web-llm)
 
 #### UI/UX
 
@@ -171,6 +173,7 @@ Cover approaches to fine-tuning, such as Direct Preference Optimization (DPO), w
 Overview of LLMs and their applications. Understanding the Transformer Model Architecture. The Original LLM Scaling Laws. Discussion on whether to build or use pre-trained LLM models.
 
 * [DeepLearning AI: How Diffusion Models Work](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/)
+* [Building LLMs from Scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch) ([GitHub](https://github.com/rasbt/LLMs-from-scratch/))
    
 ### Hardware and Scaling: 
 
