@@ -75,6 +75,10 @@ Cover the importance of monitoring the performance of deployed models and updati
 * [DeepLearning AI: Vector Databases: Embedding to Applications](https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications/)
 * [DeepLearning AI: Knowledge Graphs for RAG](https://www.deeplearning.ai/short-courses/knowledge-graphs-rag/)
 
+### Other
+
+* [DeepLearning AI: Building Multi-modal RAG Apps](https://www.deeplearning.ai/short-courses/building-multimodal-search-and-rag/)
+
 ## Ethical and Responsible Use of Generative AI
 
 ### Ethical Considerations: 
@@ -173,6 +177,7 @@ Cover approaches to fine-tuning, such as Direct Preference Optimization (DPO), w
 Overview of LLMs and their applications. Understanding the Transformer Model Architecture. The Original LLM Scaling Laws. Discussion on whether to build or use pre-trained LLM models.
 
 * [DeepLearning AI: How Diffusion Models Work](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/)
+* [DeepLearning AI: Generative AI with LLMs](https://www.deeplearning.ai/courses/generative-ai-with-llms/)
 * [Building LLMs from Scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch) ([GitHub](https://github.com/rasbt/LLMs-from-scratch/))
    
 ### Hardware and Scaling: 
