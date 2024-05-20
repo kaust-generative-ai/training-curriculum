@@ -27,6 +27,9 @@ Cover various strategies for deploying Generative AI models, including on-premis
 * [DeepLearning AI: Introduction to Device AI](https://www.deeplearning.ai/short-courses/introduction-to-on-device-ai/)
 * [Machine Learning Compilation](https://llm.mlc.ai) ([GitHub](https://github.com/mlc-ai/mlc-llm))
 * [Deploying LLMs in your Web Browser](https://github.com/mlc-ai/web-llm)
+* [NVIDIA Orin SDK](https://developer.nvidia.com/blog/deploy-large-language-models-at-the-edge-with-nvidia-igx-orin-developer-kit/)
+* [NVIDIA Holoscan SDK](https://developer.nvidia.com/holoscan-sdk) ([GitHub](https://github.com/nvidia-holoscan/holoscan-sdk))
+* [NVIDIA Holohub](https://github.com/nvidia-holoscan/holohub)
 
 #### UI/UX
 
@@ -46,7 +49,7 @@ Cover techniques for optimizing Generative AI models for deployment, such as mod
 * [Cog](https://github.com/replicate/cog)
 * [TGI](https://github.com/huggingface/text-generation-inference)
 * [TEI](https://github.com/huggingface/text-embeddings-inference)
-* 
+ 
 ### Monitoring and Maintenance: 
 
 Cover the importance of monitoring the performance of deployed models and updating them as needed. Discuss potential issues that might arise during deployment and how to troubleshoot them.
@@ -74,10 +77,13 @@ Cover the importance of monitoring the performance of deployed models and updati
 
 * [DeepLearning AI: Vector Databases: Embedding to Applications](https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications/)
 * [DeepLearning AI: Knowledge Graphs for RAG](https://www.deeplearning.ai/short-courses/knowledge-graphs-rag/)
-
+* [DeepLearning AI: Advanced AI Retrieval](https://www.deeplearning.ai/short-courses/advanced-retrieval-for-ai/)
+* [DeepLearning AI: Building Applications with Vector databases](https://www.deeplearning.ai/short-courses/building-applications-vector-databases/)
+  
 ### Other
 
 * [DeepLearning AI: Building Multi-modal RAG Apps](https://www.deeplearning.ai/short-courses/building-multimodal-search-and-rag/)
+* [Deep Learning AI: Multi-Agent Systems](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)
 
 ## Ethical and Responsible Use of Generative AI
 
@@ -112,9 +118,6 @@ Teach students how to evaluate the performance of LLMs using the discussed metri
 Provide students with practical exercises where they can practice evaluating LLMs. We will use real-world examples and datasets provided by our partners for these exercises to give students practical experience.
 
 * [DeepLearning AI: LLMs for Semantic Search](https://www.deeplearning.ai/short-courses/large-language-models-semantic-search/)
-
-* [DeepLearning AI: Advanced AI Retrieval](https://www.deeplearning.ai/short-courses/advanced-retrieval-for-ai/)
-* [DeepLearning AI: Building Applications with Vector databases](https://www.deeplearning.ai/short-courses/building-applications-vector-databases/)
 * [DeepLearning AI: Preprocessing Unstructured Data for LLM Apps](https://www.deeplearning.ai/short-courses/preprocessing-unstructured-data-for-llm-applications/)
   
 ## Practical Prompt Optimization for LLMs
