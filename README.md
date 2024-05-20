@@ -150,6 +150,8 @@ Discuss the numerous trade-offs involved when deciding which of prompt engineeri
 
 Discuss the concept of fine-tuning and its importance in effectively using LLMs. Explain how fine-tuning adjusts the pre-trained models to perform specific tasks.
 
+* [Mastering LLMs: End-to-end Fine-tuning and Deployment](https://maven.com/parlance-labs/fine-tuning)
+
 ### "Full" Fine-Tuning: 
 
 Cover approaches such as Transfer Learning and Knowledge Distillation.
