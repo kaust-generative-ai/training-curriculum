@@ -21,7 +21,8 @@ Cover various strategies for deploying Generative AI models, including on-premis
 * [DeepLearning AI: Building Generative AI Apps](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/)
 * [Ollama](https://ollama.com) ([GitHub](https://github.com/ollama/ollama))
 * [Llama.cpp](https://github.com/ggerganov/llama.cpp)
-
+* [Latent Space Podcast: Tiny Model Revolution](https://www.latent.space/p/cogrev-tinystories)
+  
 #### Edge Deployment
 
 * [DeepLearning AI: Introduction to Device AI](https://www.deeplearning.ai/short-courses/introduction-to-on-device-ai/)
@@ -34,7 +35,8 @@ Cover various strategies for deploying Generative AI models, including on-premis
 #### UI/UX
 
 * [Open WebUI](https://github.com/open-webui/open-webui)
-* 
+* [Blog Post: Emerging UI/UX patterns for AI applications](https://uxdesign.cc/emerging-interaction-patterns-in-generative-ai-experiences-8c351bb3392a)
+  
 ### Model Optimization:
 
 Cover techniques for optimizing Generative AI models for deployment, such as model pruning, quantization, and distillation. Cover the trade-offs between model size, speed, and performance.
@@ -62,16 +64,20 @@ Cover the importance of monitoring the performance of deployed models and updati
 
 ### LangChain
 
+* [O'Reilly: Generative AI with LangChain](https://www.oreilly.com/library/view/generative-ai-with/9781835083468/)
 * [DeepLearning AI: LangChain for LLM App Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
 * [DeepLearning AI: LangChain: Chat with your Data](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/)
 * [DeepLearning AI: LangChain: Functions, Tools, and Agents](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/)
 * [DeepLearning AI: LLM Apps with JavaScript](https://www.deeplearning.ai/short-courses/build-llm-apps-with-langchain-js/)
-
+* [Latent Space Podcast: LangChain](https://www.latent.space/p/langchain)
+  
 ### LlamaIndex
 
 * [DeepLearning AI: Building and Evaluating Advanced RAG Apps](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/)
 * [DeepLearning AI: Agentic RAG Apps](https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex/)
 * [DeepLearning AI: RAG Apps with JavaScript](https://www.deeplearning.ai/short-courses/javascript-rag-web-apps-with-llamaindex/)
+* [Deep Learning AI: Multi-Agent Systems](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)
+* [Latent Space Podcast: Llama Index](https://www.latent.space/p/llamaindex)
   
 ### Vector Databases
 
@@ -83,7 +89,6 @@ Cover the importance of monitoring the performance of deployed models and updati
 ### Other
 
 * [DeepLearning AI: Building Multi-modal RAG Apps](https://www.deeplearning.ai/short-courses/building-multimodal-search-and-rag/)
-* [Deep Learning AI: Multi-Agent Systems](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)
 
 ## Ethical and Responsible Use of Generative AI
 
@@ -119,6 +124,7 @@ Provide students with practical exercises where they can practice evaluating LLM
 
 * [DeepLearning AI: LLMs for Semantic Search](https://www.deeplearning.ai/short-courses/large-language-models-semantic-search/)
 * [DeepLearning AI: Preprocessing Unstructured Data for LLM Apps](https://www.deeplearning.ai/short-courses/preprocessing-unstructured-data-for-llm-applications/)
+* [Latent Space Podcast: Benchmarks 101](https://www.latent.space/p/benchmarks-101)
   
 ## Practical Prompt Optimization for LLMs
 
@@ -130,11 +136,14 @@ Discuss the concept of prompt optimization and its importance in effectively usi
 
 Teach students various techniques for designing effective prompts. This would include methods for crafting initial prompts, techniques for iterative refinement, and strategies for testing and evaluating prompts.
 
+* [O'Reilly: Prompt Engineering for Generative AI](https://www.oreilly.com/library/view/prompt-engineering-for/9781098153427/) ([GitHub](https://github.com/BrightPool/prompt-engineering-for-generative-ai-examples/), [Udemy](https://www.udemy.com/course/prompt-engineering-for-ai/?couponCode=OF52424))
 * [DeepLearning AI: Prompt Engineering with Llama 2/3](https://www.deeplearning.ai/short-courses/prompt-engineering-with-llama-2/)
 * [DeepLearning AI: ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 * [DeepLearning AI: Building systems with ChatGPT](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)
 * [DeepLearning AI: Getting Started with Mistral](https://www.deeplearning.ai/short-courses/getting-started-with-mistral/)
 * [DeepLearning AI: Prompt Engineering for Vision Models](https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/)
+* [Udemy: Prompt Engineering for AI](https://www.udemy.com/course/prompt-engineering-for-ai/?couponCode=ST19MT60324)
+* [Open AI: Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering)
   
 ### Techniques for Prompt Tuning: 
 
@@ -151,6 +160,8 @@ Discuss the numerous trade-offs involved when deciding which of prompt engineeri
 Discuss the concept of fine-tuning and its importance in effectively using LLMs. Explain how fine-tuning adjusts the pre-trained models to perform specific tasks.
 
 * [Mastering LLMs: End-to-end Fine-tuning and Deployment](https://maven.com/parlance-labs/fine-tuning)
+* [Latent Space Podcast: The End of Fine-Tuning](https://www.latent.space/p/fastai)
+* [Latent Space Podcast: Axolotl](https://www.latent.space/p/axolotl)
 
 ### "Full" Fine-Tuning: 
 
@@ -173,7 +184,8 @@ Cover the basic ideas of Instruction Tuning as well as extensions such as the po
 Cover approaches to fine-tuning, such as Direct Preference Optimization (DPO), where the goal of the fine-tuning is to improve the alignment of LLMs with human preferences.
 
 * [DeepLearning AI: RLHF](https://www.deeplearning.ai/short-courses/reinforcement-learning-from-human-feedback/)
-* [Latent Space Podcast on RLHF](https://www.latent.space/p/rlhf-201)
+* [Latent Space Podcast: RLHF 201](https://www.latent.space/p/rlhf-201)
+* [Latent Space Podcast: From RLHF to RLHB](https://www.latent.space/p/amplitude)
   
 ## Practical Training of LLMs from Scratch
 
@@ -209,6 +221,10 @@ Understanding the hardware requirements for training LLMs. The role of memory an
 
 The importance of dataset diversity and quality in LLM training. Techniques for dataset collection, including crawling public data, online publication or book repositories, code data from GitHub, Wikipedia, news, social media conversations, etc. Dataset pre-processing. Tokenization.
 
+* [Latent Space Podcast: Datasets 101](https://www.latent.space/p/datasets-101)
+
 ### Pre-Training and Model Evaluation: 
 
 Steps involved in pre-training an LLM. Techniques for model evaluation. Understanding bias and toxicity in LLMs. Instruction tuning.
+
+* [Latent Space Podcast: How to Train Your Own Multi-modal LLM](https://www.latent.space/p/idefics)
