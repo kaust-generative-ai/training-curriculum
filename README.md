@@ -21,6 +21,7 @@ Cover various strategies for deploying Generative AI models, including on-premis
 * [DeepLearning AI: Building Generative AI Apps](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/)
 * [Ollama](https://ollama.com) ([GitHub](https://github.com/ollama/ollama))
 * [Llama.cpp](https://github.com/ggerganov/llama.cpp)
+* [LlamaFile](https://github.com/Mozilla-Ocho/llamafile)
 * [Latent Space Podcast: Tiny Model Revolution](https://www.latent.space/p/cogrev-tinystories)
   
 #### Edge Deployment
