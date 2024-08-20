@@ -40,6 +40,7 @@ Cover the importance of monitoring the performance of deployed models and updati
 ### Vector Databases
 
 * [DeepLearning AI: Vector Databases: Embedding to Applications](https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications/)
+* [DeepLearning AIL Embedding Models from Architecture to Implementation](https://www.deeplearning.ai/short-courses/embedding-models-from-architecture-to-implementation/)
 * [DeepLearning AI: Knowledge Graphs for RAG](https://www.deeplearning.ai/short-courses/knowledge-graphs-rag/)
 * [DeepLearning AI: Advanced AI Retrieval](https://www.deeplearning.ai/short-courses/advanced-retrieval-for-ai/)
 * [DeepLearning AI: Building Applications with Vector databases](https://www.deeplearning.ai/short-courses/building-applications-vector-databases/)
@@ -48,7 +49,10 @@ Cover the importance of monitoring the performance of deployed models and updati
 
 * [DeepLearning AI: Open Source Models with HuggingFace](https://www.deeplearning.ai/short-courses/open-source-models-hugging-face/)
 * [DeepLearning AI: Building Multi-modal RAG Apps](https://www.deeplearning.ai/short-courses/building-multimodal-search-and-rag/)
-
+* [DeepLearning AI: Federated Learning](https://www.deeplearning.ai/short-courses/intro-to-federated-learning/)
+* [DeepLearning AI: Function Calling and Data Extraction](https://www.deeplearning.ai/short-courses/function-calling-and-data-extraction-with-llms/)
+* [DeepLearning AI: Generative AI for Software Development](https://www.deeplearning.ai/courses/generative-ai-for-software-development/)
+    
 ## Ethical and Responsible Use of Generative AI
 
 ### Ethical Considerations: 
@@ -91,6 +95,8 @@ Provide students with practical exercises where they can practice evaluating LLM
 
 Discuss the concept of prompt optimization and its importance in effectively using LLMs. Explain how carefully optimized prompts can guide the model's responses and improve its performance.
 
+* [DeepLearning AI: Prompt Compression and Query Optimization](https://www.deeplearning.ai/short-courses/prompt-compression-and-query-optimization/)
+  
 ### Techniques for Prompt Engineering: 
 
 Teach students various techniques for designing effective prompts. This would include methods for crafting initial prompts, techniques for iterative refinement, and strategies for testing and evaluating prompts.
@@ -187,4 +193,5 @@ The importance of dataset diversity and quality in LLM training. Techniques for 
 
 Steps involved in pre-training an LLM. Techniques for model evaluation. Understanding bias and toxicity in LLMs. Instruction tuning.
 
+* [DeepLearning AI: Pre-training LLMs](https://www.deeplearning.ai/short-courses/pretraining-llms/)
 * [Latent Space Podcast: How to Train Your Own Multi-modal LLM](https://www.latent.space/p/idefics)
