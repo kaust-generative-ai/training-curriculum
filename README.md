@@ -88,6 +88,8 @@ Provide students with practical exercises where they can practice evaluating LLM
 * [DeepLearning AI: LLMs for Semantic Search](https://www.deeplearning.ai/short-courses/large-language-models-semantic-search/)
 * [DeepLearning AI: Preprocessing Unstructured Data for LLM Apps](https://www.deeplearning.ai/short-courses/preprocessing-unstructured-data-for-llm-applications/)
 * [Latent Space Podcast: Benchmarks 101](https://www.latent.space/p/benchmarks-101)
+* https://github.com/openai/evals
+* https://github.com/EleutherAI/lm-evaluation-harness
   
 ## Practical Prompt Optimization for LLMs
 
@@ -109,7 +111,8 @@ Teach students various techniques for designing effective prompts. This would in
 * [DeepLearning AI: Prompt Engineering for Vision Models](https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/)
 * [Udemy: Prompt Engineering for AI](https://www.udemy.com/course/prompt-engineering-for-ai/?couponCode=ST19MT60324)
 * [Open AI: Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering)
-  
+* https://mitchellh.com/writing/prompt-engineering-vs-blind-prompting
+* 
 ### Techniques for Prompt Tuning: 
 
 Prompt-tuning introduces additional parameters into prompts and then optimizes those parameters using supervised samples. 
@@ -127,7 +130,7 @@ Discuss the concept of fine-tuning and its importance in effectively using LLMs.
 * [Mastering LLMs: End-to-end Fine-tuning and Deployment](https://maven.com/parlance-labs/fine-tuning)
 * [Latent Space Podcast: The End of Fine-Tuning](https://www.latent.space/p/fastai)
 * [Latent Space Podcast: Axolotl](https://www.latent.space/p/axolotl)
-
+* https://github.com/meta-llama/llama-recipes
 ### "Full" Fine-Tuning: 
 
 Cover approaches such as Transfer Learning and Knowledge Distillation.
