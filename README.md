@@ -133,7 +133,8 @@ Cover approaches such as Transfer Learning and Knowledge Distillation.
 Cover approaches such as Prefix Tuning and Low Rank Adaptation (LoRA).
 
 * [DeepLearning AI: Efficient Serving LLMs](https://www.deeplearning.ai/short-courses/efficiently-serving-llms/)
-
+* [DeepLearning AI: Improving Accuracy of LLMs](https://www.deeplearning.ai/short-courses/improving-accuracy-of-llm-applications/)
+  
 ### Instruction Tuning: 
 
 Cover the basic ideas of Instruction Tuning as well as extensions such as the popular Reinforcement Learning through Human Feedback (RLHF).
