@@ -165,6 +165,7 @@ Overview of LLMs and their applications. Understanding the Transformer Model Arc
 * [DeepLearning AI: How Diffusion Models Work](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/)
 * [DeepLearning AI: Generative AI with LLMs](https://www.deeplearning.ai/courses/generative-ai-with-llms/)
 * [Building LLMs from Scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch) ([GitHub](https://github.com/rasbt/LLMs-from-scratch/))
+* [Building GPT-2 from Scratch](https://www.youtube.com/watch?v=l8pRSuU81PU)
 
 [Suggested organization](https://x.com/rasbt/status/1790013057659183601?s=12&t=I0v324dBexoJhxivPjEmZw) of materials for this course.
 
