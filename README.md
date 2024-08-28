@@ -112,7 +112,8 @@ Teach students various techniques for designing effective prompts. This would in
 * [Udemy: Prompt Engineering for AI](https://www.udemy.com/course/prompt-engineering-for-ai/?couponCode=ST19MT60324)
 * [Open AI: Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering)
 * https://mitchellh.com/writing/prompt-engineering-vs-blind-prompting
-* 
+* [Anthropic Prompt Engineering Courses](https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial)
+  
 ### Techniques for Prompt Tuning: 
 
 Prompt-tuning introduces additional parameters into prompts and then optimizes those parameters using supervised samples. 
